@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(223, 240, 239);
+}
+button{
+    background-color: rgb(82, 186, 106);
+}
+table {
+  margin: 30px auto;
+  border-collapse: collapse;
+  width: 80%;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+th, td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+  font-size: 16px;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #2196F3;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0b7dda;
+}
+
+
+
+.form-btn {
+  padding: 12px 25px;
+  background-color: #673ab7;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  text-align: center;
+  
+}
+
